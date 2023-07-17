@@ -5,6 +5,9 @@ Ethnicity: Aztecian
 Region: [[Tairona]]
 Name: ??
 
+olaaa
+
+
 totem warrior barbarian oci 
 
 a promising and cocky young prince, he is really stubborn 
