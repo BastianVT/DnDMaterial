@@ -1,0 +1,1 @@
+The [[Goat day]] is equivalent to Thursday. It refers back to the zodiac, [[Goat Zodiac]].
