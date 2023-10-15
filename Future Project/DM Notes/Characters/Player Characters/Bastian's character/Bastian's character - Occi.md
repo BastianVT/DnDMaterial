@@ -3,9 +3,7 @@
 Jaguar Barbarian
 Ethnicity: Aztecian
 Region: [[Tairona]]
-Name: ??
-
-olaaa
+Name: Occi
 
 
 totem warrior barbarian oci 
@@ -33,6 +31,6 @@ ptsd of magic and spirituality
 lives in his own world, oblivious of his own world
 
 
-is looking for [[Cuauhtémoc]]
+is looking for cousin [[Témoc]] for help
 
 
