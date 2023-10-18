@@ -11,8 +11,12 @@
             "id": "f44d0236fc5e49d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "eddc5eb8a5e3eddc",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,5 +156,18 @@
     }
   },
   "active": "1614dcf4ae20de3a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Ytti.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Uncle Mako.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/The Sun God Emperor.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Quantum eclipse.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Occi.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Kartur.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Ideas.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Chi'ita.md",
+    "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Cuauhtémoc.md",
+    "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
+    "the Prophet King.md",
+    "Future Project/DM Notes/Locations/Continent/The Akkara Empire"
+  ]
 }
