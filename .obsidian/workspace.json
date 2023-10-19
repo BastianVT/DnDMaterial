@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c999ee24a7f168fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The guardians of the Akkara Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
+                "file": "The guardians of the Akkara Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
+                "file": "The guardians of the Akkara Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md"
+                "file": "The guardians of the Akkara Empire.md"
               }
             }
           },
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1614dcf4ae20de3a",
+  "active": "c999ee24a7f168fc",
   "lastOpenFiles": [
+    "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
+    "The guardians of the Akkara Empire.md",
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Ytti.md",
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Uncle Mako.md",
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/The Sun God Emperor.md",
@@ -166,7 +180,6 @@
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Ideas.md",
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Chi'ita.md",
     "Future Project/DM Notes/Characters/Player Characters/Bastian's character/Cuauhtémoc.md",
-    "Future Project/DM Notes/Locations/Continent/The Akkara Empire/Context.md",
     "the Prophet King.md",
     "Future Project/DM Notes/Locations/Continent/The Akkara Empire"
   ]
