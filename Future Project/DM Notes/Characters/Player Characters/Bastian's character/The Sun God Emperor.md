@@ -15,3 +15,9 @@ Old emperor: only referred to as 'his majesty' or 'your father', murdered while 
 
 
 Becoming the Sun God Emperor: The ascention ritual requires sacrifice but grants godlike powers - higher the sacrifice/greater the power. 
+
+
+
+### DM
+
+I want to change it to "Emperor of the Sun". The relation with the spirit guardians would a little more strong and not just the strength of the sun so to speak. 
